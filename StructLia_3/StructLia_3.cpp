@@ -29,6 +29,7 @@ int mian() {
     cout << "\t Nama Kota : ";
     cin >> mhs.alamat.kota;
 
+    cin.ignore();
 
 }
 
