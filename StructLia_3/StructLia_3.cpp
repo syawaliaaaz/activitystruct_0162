@@ -16,6 +16,9 @@ struct Mahasiswa {
     string umur;
 };
 
+int mian() {
+
+}
 
 
 
