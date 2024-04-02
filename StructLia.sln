@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StructLia_2", "StructLia_2\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StructLia_3", "StructLia_3\StructLia_3.vcxproj", "{BEE1329D-1B7E-443A-A6BD-A5551658B4FB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StructLia_4", "StructLia_4\StructLia_4.vcxproj", "{C13C8AFF-4584-4A47-9848-E23FEB0838B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{BEE1329D-1B7E-443A-A6BD-A5551658B4FB}.Release|x64.Build.0 = Release|x64
 		{BEE1329D-1B7E-443A-A6BD-A5551658B4FB}.Release|x86.ActiveCfg = Release|Win32
 		{BEE1329D-1B7E-443A-A6BD-A5551658B4FB}.Release|x86.Build.0 = Release|Win32
+		{C13C8AFF-4584-4A47-9848-E23FEB0838B0}.Debug|x64.ActiveCfg = Debug|x64
+		{C13C8AFF-4584-4A47-9848-E23FEB0838B0}.Debug|x64.Build.0 = Debug|x64
+		{C13C8AFF-4584-4A47-9848-E23FEB0838B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{C13C8AFF-4584-4A47-9848-E23FEB0838B0}.Debug|x86.Build.0 = Debug|Win32
+		{C13C8AFF-4584-4A47-9848-E23FEB0838B0}.Release|x64.ActiveCfg = Release|x64
+		{C13C8AFF-4584-4A47-9848-E23FEB0838B0}.Release|x64.Build.0 = Release|x64
+		{C13C8AFF-4584-4A47-9848-E23FEB0838B0}.Release|x86.ActiveCfg = Release|Win32
+		{C13C8AFF-4584-4A47-9848-E23FEB0838B0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
