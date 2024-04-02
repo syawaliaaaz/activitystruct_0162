@@ -31,6 +31,9 @@ int mian() {
 
     cin.ignore();
 
+    cout << "Umur Mahasiswa : ";
+    cin >> mhs.umur;
+
 }
 
 
